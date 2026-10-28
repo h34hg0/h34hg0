@@ -5,6 +5,7 @@
 **Side-Channel Analysis · Post-Quantum Cryptography · White-box Cryptography**
 
 [![Blog](https://img.shields.io/badge/Blog-h34hg0.github.io-e879b9?style=flat-square)](https://h34hg0.github.io)
+[![Tistory](https://img.shields.io/badge/Tistory-heahgo.tistory.com-000000?style=flat-square&logo=tistory&logoColor=white)](https://heahgo.tistory.com)
 [![Gmail](https://img.shields.io/badge/Gmail-h34hg0@gmail.com-7b2ff7?style=flat-square&logo=gmail&logoColor=white)](mailto:h34hg0@gmail.com)
 
 </div>
