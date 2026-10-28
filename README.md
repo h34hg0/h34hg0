@@ -50,6 +50,17 @@
 | --- | --- |
 | 2021.10 | 네트워크관리사 2급 |
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=h34hg0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h34hg0&theme=onedark&layout=compact)
+
+![Contribution chart](https://ghchart.rshah.org/e879b9/h34hg0)
+
+</div>
+
 ## 📫 Contact
 
 - Blog: [h34hg0.github.io](https://h34hg0.github.io)
